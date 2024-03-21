@@ -1,4 +1,14 @@
-### Hi there 👋
+### Aliaksei Krutsko / Front-End Developer
+
+
+
+I've been programming for a year, focusing on Front-end development. I have made a complex educational projects in Vanilla JS (eCommerce) and React (GraphiQL). During the completion of my JS course at RS School, I took on the role of a team leader, where my leadership played a pivotal role in the successful completion of the final project.
+
+Bringing more than 15 years of expertise in both manual and automated web testing, I possess a robust understanding of Software Development Life Cycle (SDLC), encompassing methodologies such as Agile (Scrum/Kanban) and Waterfall.
+I have undertaken various roles throughout my career, including positions as a tester, Scrum Master, QA team lead, and overall team lead.
+I am responsible, manage my work well, and learn quickly.
+
+![](https://www.codewars.com/users/akrutsko/badges/large)
 
 <!--
 **akrutsko/akrutsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
