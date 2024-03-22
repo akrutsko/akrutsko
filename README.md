@@ -1,4 +1,4 @@
-### Aliaksei Krutsko / Front-End Developer
+### Front-End Developer
 
 
 
