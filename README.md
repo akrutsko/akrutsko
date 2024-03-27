@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/javascript-esnext-ecda1d">
   <img src="https://img.shields.io/badge/typescript-5-0076c6">
   <img src="https://img.shields.io/badge/react-18-5ed3f3">
+  <img src="https://img.shields.io/badge/react_router-6.4-f54250">
   <img src="https://img.shields.io/badge/redux-rtk-7248b6">
   <img src="https://img.shields.io/badge/next.js-pages_router-f4e9fc">
   <img src="https://www.codewars.com/users/akrutsko/badges/micro">
