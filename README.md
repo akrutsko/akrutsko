@@ -24,6 +24,7 @@ I am responsible, manage my work well, and learn quickly.
   <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/favicons/favicon.png" width="32" height="32"></a>
   <a href="https://www.npmjs.com"<img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="32" height="32"></a>
   <a href="https://commercetools.com"><img src="https://commercetools.com/_build/meta/favicon/favicon-32x32.png?v=2024.1" width="32" height="32"></a>
+  <a href="https://www.npmjs.com"><img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="32" height="32"></a>
   <a href="https://webpack.js.org"><img src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" width="32" height="32"></a>
   <a href="https://vitejs.dev"><img src="https://vitejs.dev/logo.svg" width="32" height="32"></a>
   <a href="https://www.figma.com"><img src="https://static.figma.com/app/icon/1/icon-192.png" width="32" height="32"></a>
