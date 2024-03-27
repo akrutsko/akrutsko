@@ -29,6 +29,7 @@ I am responsible, manage my work well, and learn quickly.
   <a href="https://www.figma.com"><img src="https://static.figma.com/app/icon/1/icon-192.png" width="32" height="32"></a>
   <a href="https://tailwindcss.com"><img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" width="32" height="32"></a>
   <a href="https://testing-library.com"><img src="https://testing-library.com/img/octopus-32x32.png" width="32" height="32"></a>
+  <a href="https://mswjs.io"><img src="https://mswjs.io/icon.svg" width="32" height="32"></a>
 </div>
 
 <!--
